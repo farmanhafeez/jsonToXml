@@ -1,4 +1,4 @@
-# jsonToXML
+# jsonToXml
 
 A lightweight simple PHP code to convert JSON or Array to XML.
 
